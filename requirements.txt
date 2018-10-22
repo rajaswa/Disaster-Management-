@@ -1,2 +1,5 @@
 tweepy
 selenium
+textacy
+spacy
+pymprog
