@@ -3,3 +3,5 @@ selenium
 textacy
 spacy
 pymprog
+
+spacy nlp 'en' model
